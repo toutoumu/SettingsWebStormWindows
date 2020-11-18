@@ -1,0 +1,107 @@
+<templateSet group="Vue-动画">
+  <template name="venterActiveClass" value="enter-active-class = &quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="venterClass" value="enter-class=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="vleaveClass" value="leave-class=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="vappearClass" value="appear-class=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="venterToClass" value="enter-to-class=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="vleaveToClass" value="leave-to-class=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="vappearToClass" value="appear-to-class=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="vleaveActiveClass" value="leave-active-class=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="vappearActiveClass" value="appear-active-class=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="vbeforeEnterEvent" value="@before-enter=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="vbeforeLeaveEvent" value="@before-leave=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="vbeforeAppearEvent" value="@before-appear=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="venterEvent" value="@enter=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="vleaveEvent" value="@leave=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="vappearEvent" value="@appear=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="vafterEnterEvent" value="@after-enter=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="vafterLeaveEvent" value="@after-leave=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="vafterAppearEvent" value="@after-appear=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="venterCancelledEvent" value="@enter-cancelled=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="vleaveCancelledEvent" value="@leave-cancelled=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="vappearCancelledEvent" value="@appear-cancelled=&quot;$END$&quot;" description="enter-active-class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+</templateSet>

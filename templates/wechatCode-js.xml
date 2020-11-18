@@ -1,0 +1,35 @@
+<templateSet group="wechatCode-js">
+  <template name="wxBehavior" value="let behavior = Behavior({&#10;    properties: {&#10;        content: String,&#10;        img: String,&#10;    },&#10;    data:{&#10;    },&#10;    attached:function(){&#10;    &#10;    },&#10;    methods:{&#10;    }&#10;})&#10;export { behavior }" description="微信Behavior" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="wxSetData" value="this.setData({&#10;    $end$&#10;})" description="微信更新数据" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="wxTriggerEvent" value="this.triggerEvent('$event$', {$end$}, {})" description="微信触发自定义事件" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="event" expression="" defaultValue="&quot;event&quot;" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="behaviors" value="behaviors" description="属性: behaviors: [$behaviors$]" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="properties" value="properties" description="属性: properties : { }" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="component" value="Component" description="属性: Component : { }" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

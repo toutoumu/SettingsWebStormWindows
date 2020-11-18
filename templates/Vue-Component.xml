@@ -1,0 +1,18 @@
+<templateSet group="Vue-Component">
+  <template name="vdispatch" value="this.$store.dispatch('$actionName$', $payload$)" description="store dispatch" toReformat="false" toShortenFQNames="true">
+    <variable name="actionName" expression="" defaultValue="&quot;actionName&quot;" alwaysStopAt="true" />
+    <variable name="payload" expression="" defaultValue="&quot;payload&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="vcommit" value="this.$store.commit('$mutationName$', $payload$)" description="store commit" toReformat="false" toShortenFQNames="true">
+    <variable name="mutationName" expression="" defaultValue="&quot;mutationName&quot;" alwaysStopAt="true" />
+    <variable name="payload" expression="" defaultValue="&quot;payload&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
