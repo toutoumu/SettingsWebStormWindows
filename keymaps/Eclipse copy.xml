@@ -287,6 +287,7 @@
   </action>
   <action id="RunToCursor" />
   <action id="SaveAll" />
+  <action id="SaveAs" />
   <action id="ScrollTreeToCenter" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
