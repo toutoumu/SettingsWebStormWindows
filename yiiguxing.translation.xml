@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="series" />
       <item value="Avenir" />
     </histories>
     <option name="languageScores">
       <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
