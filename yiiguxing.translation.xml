@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inside" />
       <item value="emphasis" />
       <item value="silent" />
       <item value="geometry" />
@@ -10,8 +11,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
