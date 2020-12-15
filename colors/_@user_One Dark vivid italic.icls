@@ -4,7 +4,7 @@
     <property name="created">2020-12-11T08:53:09</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-12-11T09:29:28</property>
+    <property name="modified">2020-12-15T11:21:59</property>
     <property name="originalScheme">One Dark Vivid Italic</property>
   </metaInfo>
   <console-font>
@@ -1010,7 +1010,9 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="feef00" />
         <option name="BACKGROUND" value="353940" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -1421,7 +1423,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="FOREGROUND" value="feef00" />
+        <option name="BACKGROUND" value="515a6b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2147,7 +2150,9 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="feef00" />
         <option name="BACKGROUND" value="353940" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
