@@ -287,6 +287,11 @@
     <option name="DOWHILE_BRACE_FORCE" value="1" />
     <option name="WHILE_BRACE_FORCE" value="1" />
   </codeStyleSettings>
+  <codeStyleSettings language="Vue">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
