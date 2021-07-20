@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="来访登记" />
+      <item value="Petition" />
       <item value="拓扑" />
       <item value="最新动态" />
       <item value="动态" />
@@ -32,6 +34,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608170635891" />
+    <option name="lastTrimTime" value="1626744392310" />
   </component>
 </application>
