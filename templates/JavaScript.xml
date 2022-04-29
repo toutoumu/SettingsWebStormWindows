@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="foreach" value="$Array$.forEach((value, index, array) =&gt; {&#10;&#9;&#9;&#9;$END$&#10;})" description="forEach" toReformat="true" toShortenFQNames="true">
+    <variable name="Array" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="TS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
